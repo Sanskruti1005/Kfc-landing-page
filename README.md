@@ -26,7 +26,7 @@ KFC Landing Page/
 
 1. **Clone this repository:**  
    ```bash
-   git clone https://github.com/Yashhhh06/KFC-landing-page.git
+   git clone https://github.com/Sanskruti1005/KFC-landing-page.git
    ```
 
 2. **Navigate to the project folder:**  
@@ -66,4 +66,4 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 
-For any issues, feature requests, or suggestions, please email `yashmohite341@gmail.com` or raise an issue in the GitHub repository.
+For any issues, feature requests, or suggestions, please email `sanakruti1005@gmail.com` or raise an issue in the GitHub repository.
